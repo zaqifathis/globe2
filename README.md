@@ -2,6 +2,6 @@
  
 recreating my first threejs code in r3f.
 
->>
->>yarn
->>yarn dev
+To run:
+yarn
+yarn dev
